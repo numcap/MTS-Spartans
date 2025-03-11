@@ -1,4 +1,4 @@
-# This README was part of the Assignment
+# My 12th grade CS final project which earned me a 98. This README was part of the Assignment
 ---
 
 ## **MTS Spartans APP** README File
