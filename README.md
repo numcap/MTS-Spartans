@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MTS-Spartans
-=======
 # **MTS Spartans APP** README File
 
 ## By Jonathan Ishak, from Mother Teresa Catholic Secondary School
