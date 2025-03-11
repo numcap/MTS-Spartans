@@ -1,10 +1,11 @@
-This README was part of the Assignment
+# This README was part of the Assignment
 ---
-# **MTS Spartans APP** README File
 
-## By Jonathan Ishak, from Mother Teresa Catholic Secondary School
-## Created: December 18, 2022
-## ©️ 2022, Jonathan Ishak, All Rights Reserved
+## **MTS Spartans APP** README File
+
+### By Jonathan Ishak, from Mother Teresa Catholic Secondary School
+### Created: December 18, 2022
+### ©️ 2022, Jonathan Ishak, All Rights Reserved
 
 *The **MTS Spartans App** is an app designed for the use of Mother Teresa Catholic Secondary School students only, and is not for use by other people. As it might contain sensitive information that should only be viewed by the administrative staff, and students of MTS*
 
@@ -13,7 +14,7 @@ The MTS Spartans App is an app designed to help high school students from Mother
 This software updates students with the latest important calendar dates (Civvies days, Math Help days, School Sports Events, Test Days), and latest announcements (Extracurricular Activities, Graduation Preparation) published by the school giving students more information about what is happening at their school. 
 This results in students managing their time better, a stronger student-teacher connection, students never missing important announcements or events, and overall a better, stronger Spartans community.
 
-## Instructions
+### Instructions
 This app can be found in the Apple App Store, where it can be downloaded for free.
 When the application is opened you will be greeted by a title along with a table of all the recent announcements that have been made, you can then scroll down to find a calendar that displays the current month. The calendar will also present to you a Spartan coloured green dot to signify any important events on that day (*Coming Soon*).
 Along the bottom of the screen you will find tabs that lead you to more features in the app.
